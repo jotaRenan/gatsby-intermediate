@@ -1,0 +1,19 @@
+{
+  "name": "theme-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "develop": "gatsby develop"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "gatsby": "^2.18.17",
+    "gatsby-theme-docs": "*",
+    "reac": "^0.0.0",
+    "react-dom": "^16.12.0"
+  }
+}
